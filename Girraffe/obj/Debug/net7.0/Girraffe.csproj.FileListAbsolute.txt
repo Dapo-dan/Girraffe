@@ -1,0 +1,15 @@
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/bin/Debug/net7.0/Girraffe
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/bin/Debug/net7.0/Girraffe.deps.json
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/bin/Debug/net7.0/Girraffe.runtimeconfig.json
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/bin/Debug/net7.0/Girraffe.dll
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/bin/Debug/net7.0/Girraffe.pdb
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/Girraffe.csproj.AssemblyReference.cache
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/Girraffe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/Girraffe.AssemblyInfoInputs.cache
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/Girraffe.AssemblyInfo.cs
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/Girraffe.csproj.CoreCompileInputs.cache
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/Girraffe.dll
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/refint/Girraffe.dll
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/Girraffe.pdb
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/Girraffe.genruntimeconfig.cache
+/Users/oladapoolatubosun/Projects/Girraffe/Girraffe/obj/Debug/net7.0/ref/Girraffe.dll
