@@ -1,5 +1,25 @@
-﻿Console.Write("Roses are red");
-Console.Write("Violets are blue");
-Console.Write("I love you");
+﻿using Giraffe;
 
-Console.ReadLine();
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        Book book1 = new()
+        {
+            title = "Harry Porter",
+            author = "JK Rowling",
+            pages = 400,
+        };
+
+        Book book2 = new()
+        {
+            title = "Lord Of The Rings",
+            author = "Tolkein",
+            pages = 700,
+        };
+
+        Console.WriteLine(book1.pages);
+
+        Console.ReadLine();
+    }
+}
